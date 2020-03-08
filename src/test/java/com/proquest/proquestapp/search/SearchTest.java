@@ -122,7 +122,7 @@ public class SearchTest{
 			takeScreenShot(varDriver, "C:\\Temp\\snapshot.png");  
 							   
 		//Closes the current webdriver browser window
-		varDriver.close();
+			varDriver.close();
 		
 	    //throw new PendingException();
 	}
